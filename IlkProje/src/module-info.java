@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Levent
- *
- */
-module IlkProje {
-}
